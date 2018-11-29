@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - "YYModel@Haidora (1.0.4)"
+
+DEPENDENCIES:
+  - Masonry
+  - "YYModel@Haidora (~> 1.0.4)"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - "YYModel@Haidora"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  "YYModel@Haidora": 8b3f6084af2f14bf1c7f782ba02f819486b6cf0f
+
+PODFILE CHECKSUM: 158af86b9b62574767b36dae42653fc042afe821
+
+COCOAPODS: 1.5.3
